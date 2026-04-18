@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+# Bash script that compiles a C file but doesn't link
+
+gcc -c $CFILE -o main.o
