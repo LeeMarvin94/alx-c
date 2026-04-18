@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+# Bash script that compiles a source file and generates a cisfun as an executable
+
+gcc $CFILE -o cisfun

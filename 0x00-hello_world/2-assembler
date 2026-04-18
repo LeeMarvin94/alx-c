@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+# Bash script that generates a corresponding assembly code of a c source file
+
+gcc -S $CFILE 
