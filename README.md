@@ -11,5 +11,6 @@ Through these projects, I developed practical experience with:
 * compilation and debugging using GCC and GDB
 * data structures and algorithms in C
 * Linux development workflows and command-line tooling
+* A simple line for testing purposes
 
 This repository reflects my commitment to mastering systems-level programming and building a strong technical foundation for software engineering and Linux-based environments.
