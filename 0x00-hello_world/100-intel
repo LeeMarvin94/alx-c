@@ -1,0 +1,5 @@
+#!/usr/bin/bash
+# bash script that generates the assembly code (intel syntax) of a corresponding source code
+
+gcc -S -masm=intel $CFILE
+
