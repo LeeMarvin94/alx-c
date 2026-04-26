@@ -1,4 +1,4 @@
-# ALX Software Engineering — C Programming Track
+# ALX Software Engineering: C Programming Track
 
 This repository contains my work from the ALX Software Engineering program, with a strong focus on C programming and low-level system concepts. It documents my progression through foundational topics such as memory management, pointers, data structures, and core Linux development practices.
 
